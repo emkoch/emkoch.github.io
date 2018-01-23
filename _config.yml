@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+gems: [jekyll-paginate]
+
+# Setup
+title:               Evan M. Koch
+tagline:             ''
+description:         'My academic website'
+# url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            2
+paginate_path: "/blog/page:num"
+
+# About/contact
+author:
+  name:              Evan M. Koch
+  url:               
+  email:             emkoch@uchicago.edu
+
+# Custom vars
+version:             1.0.0
+ 

@@ -1,0 +1,26 @@
+---
+layout: page
+title: Publications
+---
+<div class="publications">
+    {% assign sortpubs = (site.data.publications | sort: 'year') | reverse %}
+    {% for pub in sortpubs %}
+    <div class="publication">
+    {% for author in pub.authors %}
+    {% if author == 'Koch EM' %}
+    <b> {{ author }}, </b>
+    {% elsif author == pub.authors.last %}
+    and {{ author }}.
+    {% else %}
+    {{ author }},
+    {% endif %}
+    {% endfor %}
+    {{ pub.title }}.
+    {{ pub.year }}.
+    <a href={{ pub.url }}> <i> {{ pub.journal }} </i> </a>.
+    {{ pub.volume }}.
+    <br>
+    <br>
+    {% endfor %}
+    </div>
+</div>
