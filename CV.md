@@ -5,7 +5,7 @@ title: CV
 ## Education
 ------
 ### University of Chicago
-Ph.D. Candidate, Ecology and Evolution
+Ph.D. Ecology and Evolution, August 2018
 * NIH Genetics and Regulation Training Grant
 * NSF Graduate Research Fellowship
 
@@ -30,7 +30,8 @@ B.S. in Biology Honors, May 2012
 
 ## Research
 ------
-#### Novembre lab (Sept. 2012 - present)
+#### Sunyaev lab (2018 - )
+#### Novembre lab (Sept. 2012 - 2018)
 * Studied the response of deleterious variation in humans to demographic
   change using partial differential equations and analysis of exome sequence
   data.
