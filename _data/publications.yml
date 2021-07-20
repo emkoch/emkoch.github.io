@@ -37,12 +37,22 @@
   authors: [Koch EM, Schweizer RM, Schweizer TM, Stahler DR, Smith DW, Wayne RK, Novembre J]
   year: 2019
   journal: Molecular Biology and Evolution
-  volume: doi.org/10.1093/molbev/msz159
-  url: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz159/5531468?guestAccessKey=fa6d3aa5-6e94-4626-ad61-dd37553e49c9
+  volume: Volume 36, Issue 11, 2536–2547
+  url: https://doi.org/10.1093/molbev/msz159
 
-- title: Maintenance of adaptive dynamics in a bottlenecked range-edge population that retained outcrossing
+-- title: Polygenic adaptation of rosette growth in Arabidopsis thaliana
+   authors: [Wieters B, Steige KA , He F, Koch EM, Ramos-Onsins SE, Gu H, Guo YL, Sunyaev S, de Meaux J]
+   year: 2021
+   journal: PLoS Genetics
+   volume: 17(1): e1008748
+   url: https://doi.org/10.1371/journal.pgen.1008748
+--title: Population-specific causal disease effect sizes in functionally important regions impacted by selection
+  authors: [Shi H, Gazal S, Kanai M, Koch EM, Schoech AP, Siewert KM, Kim SS, Luo Y, Amariuta T, Huang H, Okada Y, Raychaudhuri S, Sunyaev SR, Price AL]
+
+- title: Maintenance of Adaptive Dynamics and No Detectable Load in a Range-Edge Outcrossing Plant Population
   authors: [Takou M, Hämälä T, Steige KA, Koch EM, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O, de Meaux J]
-  year: 2019
-  journal: bioRxiv
-  volume: doi.org/10.1101/709873
-  url: https://www.biorxiv.org/content/10.1101/709873v1
+  year: 2021
+  journal: Molecular Biology and Evolution
+  volume: Volume 38, Issue 5, 1820–1836
+  url: https://doi.org/10.1093/molbev/msaa322
+  
