@@ -40,14 +40,19 @@
   volume: Volume 36, Issue 11, 2536–2547
   url: https://doi.org/10.1093/molbev/msz159
 
--- title: Polygenic adaptation of rosette growth in Arabidopsis thaliana
-   authors: [Wieters B, Steige KA , He F, Koch EM, Ramos-Onsins SE, Gu H, Guo YL, Sunyaev S, de Meaux J]
-   year: 2021
-   journal: PLoS Genetics
-   volume: 17(1): e1008748
-   url: https://doi.org/10.1371/journal.pgen.1008748
---title: Population-specific causal disease effect sizes in functionally important regions impacted by selection
+- title: Polygenic adaptation of rosette growth in Arabidopsis thaliana
+  authors: [Wieters B, Steige KA , He F, Koch EM, Ramos-Onsins SE, Gu H, Guo YL, Sunyaev S, de Meaux J]
+  year: 2021
+  journal: PLoS Genetics
+  volume: 17(1): e1008748
+  url: https://doi.org/10.1371/journal.pgen.1008748
+   
+- title: Population-specific causal disease effect sizes in functionally important regions impacted by selection
   authors: [Shi H, Gazal S, Kanai M, Koch EM, Schoech AP, Siewert KM, Kim SS, Luo Y, Amariuta T, Huang H, Okada Y, Raychaudhuri S, Sunyaev SR, Price AL]
+  year: 2021
+  journal: Nature Communications
+  volume: Volume 12, Number 1098
+  url: https://doi.org/10.1038/s41467-021-21286-1
 
 - title: Maintenance of Adaptive Dynamics and No Detectable Load in a Range-Edge Outcrossing Plant Population
   authors: [Takou M, Hämälä T, Steige KA, Koch EM, Dittberner H, Yant L, Genete M, Sunyaev S, Castric V, Vekemans X, Savolainen O, de Meaux J]
